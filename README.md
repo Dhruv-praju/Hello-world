@@ -1,2 +1,4 @@
 # Hello-world
-Just a new repository
+This is an edited version
+I had a great experience in past dreaming.
+like exploring things and learning.
